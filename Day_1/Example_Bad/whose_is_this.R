@@ -1,1 +1,1 @@
-# This mock R file was saved by defaul at the user's home, not even the desktop, when will you find it?
+# This mock R file was saved by default at the user's home, not even the desktop, when will you find it?
