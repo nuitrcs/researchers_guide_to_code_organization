@@ -12,7 +12,8 @@ def area(x,y):
 def safe_integer_divide(a:int, b:int) -> int:
     """Return a // b, guarding against division by zero."""
     if b == 0:
-        return 0  # Return 0 instead of raising error
+        print("can't divide by 0!")
+        return None  # Return None instead of raising error
     result = a // b
     return result
 ```
