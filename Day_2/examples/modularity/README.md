@@ -4,3 +4,6 @@ If you run `student_grades_analysis.py` two plots will be generated. One showing
 # from the project root
 python Day_2/examples/modularity/student_grades_analysis.py
 ```
+
+
+Hi!
